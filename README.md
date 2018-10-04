@@ -51,7 +51,7 @@ Creation Date        Creator Identity                                Source IP
 | Full |Short hand|Description|
 ----|---- |---- 
 |--start-time |-s|Log search start time|
-|--end-time |-s|Log search end time|
+|--end-time |-e|Log search end time|
 |--log-group-name |-l|Log group name of CloudWatch Logs containing CloudTrail log|
 |--instance-id |-i|The EC2 instance ID you want search its creator|
 
