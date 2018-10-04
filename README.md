@@ -37,7 +37,7 @@ You can find the creator from the **creation time range**, **instance ID**, and 
 python find_instance_creator.py \
 -s "2018/08/01 00:00:00" \
 -e "2018/08/03 00:00:00" \
--l "CloudTrail/DefaultLogGroup “ \
+-l "CloudTrail/DefaultLogGroup“ \
 -i i-020a92a6d9933e212
 ```
 
