@@ -56,5 +56,7 @@ Creation Date        Creator Identity                                Source IP
 |--instance-id |-i|The EC2 instance ID you want search its creator|
 
 ## TIPS
-How I can find the instance creation time?
-Well
+_How I can find the instance creation time?_  
+You can find instance creation time by looing EC2 console, description tab.
+
+![creationdate](https://user-images.githubusercontent.com/14175234/46450624-34089180-c7cd-11e8-93d9-b31f7fbc56cc.png)
